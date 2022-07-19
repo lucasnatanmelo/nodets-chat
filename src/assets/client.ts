@@ -1,4 +1,4 @@
-const socket = io("https://fierce-caverns-94737.herokuapp.com/");
+const socket = io("https://nodets-chat.herokuapp.com/");
 
 let userList: string[] = [];
 let username: string = '';
